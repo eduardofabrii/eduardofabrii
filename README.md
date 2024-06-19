@@ -1,5 +1,6 @@
 🤝 Olá!!! Eu sou o Eduardo Fabri :)
 
+
 🎓 Sistemas de Informação na PUCPR<br>
 💻 Estudando Python e JavaScript
 
