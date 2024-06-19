@@ -1,4 +1,4 @@
-Hello!!! I'm Eduardo Fabri :)
+🤝 Hello!!! I'm Eduardo Fabri :)
 
 🎓 Information Systems at PUCPR<br>
 💻 I'm studying Python and JavaScript
