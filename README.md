@@ -1,6 +1,6 @@
 Hello!!! I'm Eduardo Fabri :)
 
-🎓 Information Systems at PUCPR
+🎓 Information Systems at PUCPR<br>
 💻 I'm studying Python and JavaScript
 
 <div style="display: inline_block"><br>
