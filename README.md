@@ -1,7 +1,7 @@
-🤝 Hello!!! I'm Eduardo Fabri :)
+🤝 Olá!!! Eu sou o Eduardo Fabri :)
 
-🎓 Information Systems at PUCPR<br>
-💻 I'm studying Python and JavaScript
+🎓 Sistemas de Informação na PUCPR<br>
+💻 Estudando Python e JavaScript
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
