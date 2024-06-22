@@ -2,7 +2,7 @@
 
 
 🎓 Sistemas de Informação na PUCPR<br>
-💻 Estudando Python e Java
+💻 Estudando Python e Java<br>
 👔 Atualmente dando meus primeiros passos no mundo da programação. Tenho interesse especial em Python e Java, e estou adquirindo conhecimentos.
 
 <div style="display: inline_block"><br>
