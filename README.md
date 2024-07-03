@@ -1,9 +1,8 @@
 
 <h1>Sobre Mim<h1>
+
+  
 <code>System.out.println("Olá, eu sou o Eduardo!")</code>
-
-
-
 🎓 Sistemas de Informação na PUCPR<br>
 💻 Estudando Python e Java<br>
 👔 Atualmente dando meus primeiros passos no mundo da programação.
