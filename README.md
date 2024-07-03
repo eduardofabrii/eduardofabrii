@@ -13,8 +13,6 @@
   </a>
 </p>
 
-  ##
-
 <h1>Estudos<h1>
 <p align="left">
   <a href="https://skillicons.dev">
