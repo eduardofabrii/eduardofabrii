@@ -4,7 +4,7 @@
 👔 Atualmente dando meus primeiros passos no mundo da programação.
 
 
-<p>   Redes Sociais</p>
+<p>Redes Sociais</p>
 <p align="left">
   <a href="https://skillicons.dev">
       <a href="https://instagram.com/eduardofabr" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
@@ -16,9 +16,9 @@
   ##
 
 <h1>Estudos<h1>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,py,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,javascript,html,css" />
   </a>
 </p>
  
