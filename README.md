@@ -1,6 +1,3 @@
-
-<h1>Sobre Mim<h1>
-  
 System.out.println("Olá, eu sou o Eduardo!")<br>
 🎓 Sistemas de Informação na PUCPR<br>
 💻 Estudando Python e Java<br>
