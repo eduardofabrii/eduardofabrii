@@ -5,9 +5,11 @@
 💻 Estudando Python e Java<br>
 👔 Atualmente dando meus primeiros passos no mundo da programação.
 
+
+<h1>Estudos<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,py,javascript,html,css" />
   </a>
 </p>
   
