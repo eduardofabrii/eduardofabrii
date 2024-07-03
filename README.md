@@ -18,3 +18,9 @@
   <a href = "mailto:eduardohfabri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardofabri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<h1>Redes Sociais<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <a href="https://instagram.com/eduardofabr" <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
