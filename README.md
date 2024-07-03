@@ -1,4 +1,7 @@
-🤝 Olá!!! Eu sou o Eduardo Fabri :)
+
+<h1>Sobre Mim<h1>
+<code>System.out.println("Olá, eu sou o Eduardo!")</code>
+
 
 
 🎓 Sistemas de Informação na PUCPR<br>
