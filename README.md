@@ -4,7 +4,7 @@
 👔 Atualmente dando meus primeiros passos no mundo da programação.
 
 
-<p>Redes Sociais</p>
+<p>   Redes Sociais</p>
 <p align="left">
   <a href="https://skillicons.dev">
       <a href="https://instagram.com/eduardofabr" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
