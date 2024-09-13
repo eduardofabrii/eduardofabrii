@@ -1,6 +1,7 @@
 <h1>Sobre</h1>
 👨‍💻 System.out.println("Olá, eu sou o Eduardo!")<br>
-🎓 Sistemas de Informação na PUCPR<br>
+🎓 Sistemas de Informação @ [PUCPR]([(https://www.pucpr.br/))
+<br>
 💻 Estudando Java, POO e MySQL<br>
 👔 Atualmente dando meus primeiros passos no mundo da programação.
 
@@ -21,8 +22,5 @@
     <img src="https://skillicons.dev/icons?i=java,spring,py,javascript,html,css" />
   </a>
 </p>
-
-<h1>Stats</h1>
-[![Eduardo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofabrii&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
  
