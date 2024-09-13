@@ -23,5 +23,6 @@
 </p>
 
 <h1>Stats</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofabrii&layout=donut)](https:)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofabrii&layout=donut)](https://github.com/eduardofabrii)
+
  
