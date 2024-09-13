@@ -22,5 +22,5 @@
   </a>
 </p>
 
-<h1>Stats<h1>
+<h1>Stats<h1> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofabrii)](https://github.com/eduardofabrii/github-readme-stats)
