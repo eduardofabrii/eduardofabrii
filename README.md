@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
 👨‍💻 System.out.println("Olá, eu sou o Eduardo!")<br>
-🎓 Sistemas de Informação @ <a href="https://www.pucpr.br/">PUCPR</a><br>
+🎓 Sistemas de Informação @ <a href="https://www.pucpr.br/" target='_blank'>PUCPR</a><br>
 💻 Estudando Java, POO e MySQL<br>
 👔 Atualmente dando meus primeiros passos no mundo da programação.
 
