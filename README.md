@@ -20,4 +20,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,py,mysql,javascript,html,css" />
   </a>
-</p> <br>
+</p>
