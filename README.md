@@ -3,8 +3,6 @@
 🎓 Sistemas de Informação @ PUCPR<br>
 💻 Estudando Java & Android<br>
 
-*** 
-
 <h1>Redes Sociais</h1>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,8 +12,6 @@
   </a>
 </p>
 
-***
-
 <h1>Estudos<h1>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,6 +19,5 @@
   </a>
 </p>
 
-***
-
+<h1></h1>
 <a href="https://eduardofabrii.github.io/eduardofabri/" target="_blank">Site de Portfólio Pessoal</a>
