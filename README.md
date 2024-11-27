@@ -3,7 +3,7 @@
 🎓 Sistemas de Informação @ PUCPR<br>
 💻 Estudando Java & Android<br>
 
-
+*** 
 
 <h1>Redes Sociais</h1>
 <p align="left">
@@ -14,11 +14,15 @@
   </a>
 </p>
 
+***
+
 <h1>Estudos<h1>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,py,mysql,javascript,html,css" />
   </a>
 </p>
+
+***
 
 <a href="https://eduardofabrii.github.io/eduardofabri/" target="_blank">Site de Portfólio Pessoal</a>
