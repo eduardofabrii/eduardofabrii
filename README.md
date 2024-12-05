@@ -1,7 +1,6 @@
 <h1>Sobre</h1>
 👨‍💻 System.out.println("Olá, eu sou o Eduardo!")<br>
 🎓 Sistemas de Informação @ PUCPR<br>
-💻 Estudando Java & Android<br>
 
 <h1>Redes Sociais</h1>
 <p align="left">
