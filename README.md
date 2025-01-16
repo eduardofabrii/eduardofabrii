@@ -14,7 +14,7 @@
 <h1>Estudos<h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,typescript,angular,android,py,mysql,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,typescript,angular,py,mysql,javascript,html,css" />
   </a>
 </p>
 
