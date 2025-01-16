@@ -18,4 +18,4 @@
   </a>
 </p>
 
-<h1><a href="https://eduardofabrii.github.io/eduardofabri/" target="_blank">Site de Portfólio Pessoal</a></h1>
+<h1><a href="https://eduardofabrii.github.io/portfolio/" target="_blank">Site de Portfólio Pessoal</a></h1>
