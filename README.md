@@ -21,7 +21,6 @@
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardofabrii&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardofabrii&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
 <br>
